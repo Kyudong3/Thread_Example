@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Thread_Example</string>
+
+    <string name="btn_text">Btn Click num</string>
+    <string name="thread_text">Thread num</string>
+    <string name="runnable_text">Runnable num</string>
+    <string name="clickBtn">Click!</string>
+
+</resources>
